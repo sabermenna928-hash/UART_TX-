@@ -1,6 +1,6 @@
 # UART Transmitter
 
-This project implements a UART Transmitter using Verilog/SystemVerilog.
+This project implements a UART Transmitter using Verilog
 
 ## Modules
 
